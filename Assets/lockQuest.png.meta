@@ -1,0 +1,5409 @@
+fileFormatVersion: 2
+guid: 2700f84bc4938e74495f006b7d92fc19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8819601278281335436
+    second: REPOSO 1
+  - first:
+      213: 9182127427255692525
+    second: REPOSO 2
+  - first:
+      213: 7967466760909396157
+    second: REPOSO 3
+  - first:
+      213: -2765243025660224680
+    second: REPOSO 4
+  - first:
+      213: -369359334142507238
+    second: REPOSO 5
+  - first:
+      213: -4173034026472339766
+    second: REPOSO 6
+  - first:
+      213: -7197069058971163507
+    second: CAMINAR 1
+  - first:
+      213: -3529978026712696223
+    second: CAMINAR 2
+  - first:
+      213: 7673269149027916056
+    second: CAMINAR 3
+  - first:
+      213: -8213516004045349540
+    second: CAMINAR 4
+  - first:
+      213: 9090716788945630092
+    second: CAMINAR 5
+  - first:
+      213: -8496611835629862343
+    second: CAMINAR 6
+  - first:
+      213: -4353371228137114806
+    second: CORRER 1
+  - first:
+      213: -1841223129264858124
+    second: CORRER 2
+  - first:
+      213: 4690923581554520854
+    second: CORRER 3
+  - first:
+      213: -1541593942660987268
+    second: CORRER 4
+  - first:
+      213: 7768515108069365055
+    second: CORRER 5
+  - first:
+      213: -2469617316386703196
+    second: CORRER 6
+  - first:
+      213: -993985900283611987
+    second: REPOSO DIABAJO 1
+  - first:
+      213: 4377653475182641149
+    second: REPOSO DIABAJO 2
+  - first:
+      213: -7518154494014052570
+    second: REPOSO DIABAJO 3
+  - first:
+      213: -634666611830062011
+    second: REPOSO DIABAJO 4
+  - first:
+      213: -3145806797362852446
+    second: REPOSO DIABAJO 5
+  - first:
+      213: 1097802230621892018
+    second: REPOSO DIABAJO 6
+  - first:
+      213: -8234030490025527547
+    second: CAMINAR DIABAJO 1
+  - first:
+      213: 5189225749659274425
+    second: CAMINAR DIABAJO 2
+  - first:
+      213: 1464476305930483529
+    second: CAMINAR DIABAJO 3
+  - first:
+      213: -1685735420096856786
+    second: CAMINAR DIABAJO 4
+  - first:
+      213: 7183339347988389596
+    second: CAMINAR DIABAJO 5
+  - first:
+      213: -9189181131479608894
+    second: CAMINAR DIABAJO 6
+  - first:
+      213: -7742534369962804879
+    second: CORRER DIABAJO 1
+  - first:
+      213: 1796822487497984587
+    second: CORRER DIABAJO 2
+  - first:
+      213: 2040822709998229124
+    second: CORRER DIABAJO 3
+  - first:
+      213: 1721982363050870319
+    second: CORRER DIABAJO 4
+  - first:
+      213: 7479544070418568944
+    second: CORRER DIABAJO 5
+  - first:
+      213: -6378430282629712158
+    second: CORRER DIABAJO 6
+  - first:
+      213: 5226313762565641849
+    second: REPOSO IZQ 1
+  - first:
+      213: -8640866105113859989
+    second: REPOSO IZQ 2
+  - first:
+      213: 8650779760468719118
+    second: REPOSO IZQ 3
+  - first:
+      213: 4608581327740010286
+    second: REPOSO IZQ 4
+  - first:
+      213: 4256564463187671648
+    second: REPOSO IZQ 5
+  - first:
+      213: -4061359808652796931
+    second: REPOSO IZQ 6
+  - first:
+      213: -713562594848095733
+    second: CAMINAR IZQ 1
+  - first:
+      213: 8926125006718694015
+    second: CAMINAR IZQ 2
+  - first:
+      213: -4294866688056214196
+    second: CAMINAR IZQ 3
+  - first:
+      213: -2444640806099220507
+    second: CAMINAR IZQ 4
+  - first:
+      213: -8933570351858963744
+    second: CAMINAR IZQ 5
+  - first:
+      213: 1073199689087676213
+    second: CAMINAR IZQ 6
+  - first:
+      213: -629757889031646030
+    second: CORRER IZQ 1
+  - first:
+      213: -8021687757629528998
+    second: CORRER IZQ 2
+  - first:
+      213: -1359268161261805542
+    second: CORRER IZQ 3
+  - first:
+      213: 3942963662136977956
+    second: CORRER IZQ 4
+  - first:
+      213: 5395870958414952700
+    second: CORRER IZQ 5
+  - first:
+      213: -4937509394529307797
+    second: CORRER IZQ 6
+  - first:
+      213: 1778916888357195266
+    second: REPOSO DIARRIBA 1
+  - first:
+      213: -2722425505378544400
+    second: REPOSO DIARRIBA 2
+  - first:
+      213: 3895024283661347002
+    second: REPOSO DIARRIBA 3
+  - first:
+      213: 2315948084984072260
+    second: REPOSO DIARRIBA 4
+  - first:
+      213: 6755690274062366074
+    second: REPOSO DIARRIBA 5
+  - first:
+      213: 248788623005769811
+    second: REPOSO DIARRIBA 6
+  - first:
+      213: -4079786782948377674
+    second: CAMINAR DIARRIBA 1
+  - first:
+      213: 7999821076314158678
+    second: CAMINAR DIARRIBA 2
+  - first:
+      213: 3942078945889607277
+    second: CAMINAR DIARRIBA 3
+  - first:
+      213: 4807288919679138111
+    second: CAMINAR DIARRIBA 4
+  - first:
+      213: 3634466433247383596
+    second: CAMINAR DIARRIBA 5
+  - first:
+      213: 8982561477005637843
+    second: CAMINAR DIARRIBA 6
+  - first:
+      213: 6187298648546739298
+    second: CORRER DIARRIBA 1
+  - first:
+      213: -1141910436263909851
+    second: CORRER DIARRIBA 2
+  - first:
+      213: -5197420455186391785
+    second: CORRER DIARRIBA 3
+  - first:
+      213: -999289621308427453
+    second: CORRER DIARRIBA 4
+  - first:
+      213: 295712814961550957
+    second: CORRER DIARRIBA 5
+  - first:
+      213: -1841382677931227649
+    second: CORRER DIARRIBA 6
+  - first:
+      213: 5447030812102367284
+    second: REPOSO ARRIBA 1
+  - first:
+      213: -6986562154893981923
+    second: REPOSO ARRIBA 2
+  - first:
+      213: 6673869499324679838
+    second: REPOSO ARRIBA 3
+  - first:
+      213: -3615545351515919182
+    second: REPOSO ARRIBA 4
+  - first:
+      213: 3436071759363505816
+    second: REPOSO ARRIBA 5
+  - first:
+      213: 8801234578709657220
+    second: REPOSO ARRIBA 6
+  - first:
+      213: -3909221503799075967
+    second: CAMINAR ARRIBA 1
+  - first:
+      213: -8588656946443678311
+    second: CAMINAR ARRIBA 2
+  - first:
+      213: -680279556749892013
+    second: CAMINAR ARRIBA 3
+  - first:
+      213: 547975275027522865
+    second: CAMINAR ARRIBA 4
+  - first:
+      213: -6655630674529863111
+    second: CAMINAR ARRIBA 5
+  - first:
+      213: 5315804141993963922
+    second: CAMINAR ARRIBA 6
+  - first:
+      213: -4797032435593999055
+    second: CORRER ARRIBA 1
+  - first:
+      213: 3695405982232528891
+    second: CORRER ARRIBA 2
+  - first:
+      213: -3872654156647528146
+    second: CORRER ARRIBA 3
+  - first:
+      213: 3371431312372065332
+    second: CORRER ARRIBA 4
+  - first:
+      213: -2219261849567957974
+    second: CORRER ARRIBA 5
+  - first:
+      213: 2395184882190008109
+    second: CORRER ARRIBA 6
+  - first:
+      213: -2118113974680346600
+    second: lockQuest_90
+  - first:
+      213: 1304522492687560781
+    second: lockQuest_91
+  - first:
+      213: 1341120385676685540
+    second: lockQuest_92
+  - first:
+      213: -558691763744669130
+    second: lockQuest_93
+  - first:
+      213: 2079588969283370537
+    second: lockQuest_94
+  - first:
+      213: 5794749918661340781
+    second: lockQuest_95
+  - first:
+      213: 5914274261660024752
+    second: lockQuest_96
+  - first:
+      213: 3721346057976265275
+    second: lockQuest_97
+  - first:
+      213: -1245790717220287716
+    second: lockQuest_98
+  - first:
+      213: 4583028360820155038
+    second: lockQuest_99
+  - first:
+      213: 7841762673113895780
+    second: lockQuest_100
+  - first:
+      213: 2132554354217261452
+    second: lockQuest_101
+  - first:
+      213: -4810780507897479057
+    second: lockQuest_102
+  - first:
+      213: 7641217247870874708
+    second: lockQuest_103
+  - first:
+      213: -8380980742599952350
+    second: lockQuest_104
+  - first:
+      213: 1382055808798719050
+    second: lockQuest_105
+  - first:
+      213: -1250950461593527269
+    second: lockQuest_106
+  - first:
+      213: -3799706978758375070
+    second: lockQuest_107
+  - first:
+      213: -4145355095551524459
+    second: lockQuest_108
+  - first:
+      213: -7393803084003148895
+    second: lockQuest_109
+  - first:
+      213: 2829642099227301707
+    second: lockQuest_110
+  - first:
+      213: 9212281241852768016
+    second: lockQuest_111
+  - first:
+      213: 301309019489454994
+    second: lockQuest_112
+  - first:
+      213: 3194586303908914510
+    second: lockQuest_113
+  - first:
+      213: -4619369113903452948
+    second: lockQuest_114
+  - first:
+      213: -8030755680665905587
+    second: lockQuest_115
+  - first:
+      213: 5554143424902408413
+    second: lockQuest_116
+  - first:
+      213: -327134505647557715
+    second: lockQuest_117
+  - first:
+      213: -5612610244348524928
+    second: lockQuest_118
+  - first:
+      213: 7434574618234496867
+    second: lockQuest_119
+  - first:
+      213: -5302522784558418433
+    second: lockQuest_120
+  - first:
+      213: -8958545084435025928
+    second: lockQuest_121
+  - first:
+      213: -6060601157688151549
+    second: lockQuest_122
+  - first:
+      213: 1884834748250581505
+    second: lockQuest_123
+  - first:
+      213: 398757041106232996
+    second: lockQuest_124
+  - first:
+      213: -5996434374186259352
+    second: lockQuest_125
+  - first:
+      213: -8966417569543806609
+    second: lockQuest_126
+  - first:
+      213: 6894968202910835580
+    second: lockQuest_127
+  - first:
+      213: 838372846369619975
+    second: lockQuest_128
+  - first:
+      213: 7545056280647360606
+    second: lockQuest_129
+  - first:
+      213: -5183530090850805859
+    second: lockQuest_130
+  - first:
+      213: 230412336646115642
+    second: lockQuest_131
+  - first:
+      213: 3728308269828591299
+    second: lockQuest_132
+  - first:
+      213: 3723758917876860200
+    second: lockQuest_133
+  - first:
+      213: -6998524761428939114
+    second: lockQuest_134
+  - first:
+      213: -2387838348528378994
+    second: lockQuest_135
+  - first:
+      213: -4500961123966250863
+    second: lockQuest_136
+  - first:
+      213: -2658932514930750504
+    second: lockQuest_137
+  - first:
+      213: -5645993413068363754
+    second: lockQuest_138
+  - first:
+      213: 5140285149914458457
+    second: lockQuest_139
+  - first:
+      213: 3231555724117023101
+    second: lockQuest_140
+  - first:
+      213: 5710703426193332170
+    second: lockQuest_141
+  - first:
+      213: 8287439921383348129
+    second: lockQuest_142
+  - first:
+      213: -8764404468952630780
+    second: lockQuest_143
+  - first:
+      213: -543401632985525907
+    second: lockQuest_144
+  - first:
+      213: -1571768733253576459
+    second: lockQuest_145
+  - first:
+      213: 7920566087461943112
+    second: lockQuest_146
+  - first:
+      213: 2098784986239452775
+    second: lockQuest_147
+  - first:
+      213: 5311238604567774287
+    second: lockQuest_148
+  - first:
+      213: 1465594832269248917
+    second: lockQuest_149
+  - first:
+      213: -1811611033596948682
+    second: lockQuest_150
+  - first:
+      213: -6310095226347805645
+    second: lockQuest_151
+  - first:
+      213: -2773854882924756071
+    second: lockQuest_152
+  - first:
+      213: 5425230744664433671
+    second: lockQuest_153
+  - first:
+      213: 2071750967244706277
+    second: lockQuest_154
+  - first:
+      213: -3084082180614850611
+    second: lockQuest_155
+  - first:
+      213: 6469152322217546136
+    second: lockQuest_156
+  - first:
+      213: 6976307933479259402
+    second: lockQuest_157
+  - first:
+      213: -4006259970619568457
+    second: lockQuest_158
+  - first:
+      213: -3770363604635337802
+    second: lockQuest_159
+  - first:
+      213: -7254943097601058990
+    second: lockQuest_160
+  - first:
+      213: 8287518528826406468
+    second: lockQuest_161
+  - first:
+      213: -397321419753895890
+    second: lockQuest_162
+  - first:
+      213: 6851394104708117886
+    second: lockQuest_163
+  - first:
+      213: -6751297904126660277
+    second: lockQuest_164
+  - first:
+      213: 7223363975897630039
+    second: lockQuest_165
+  - first:
+      213: 3240554148979275904
+    second: lockQuest_166
+  - first:
+      213: -721017639053022271
+    second: lockQuest_167
+  - first:
+      213: 6571332647831193695
+    second: lockQuest_168
+  - first:
+      213: 3018361478611457479
+    second: lockQuest_169
+  - first:
+      213: -2547497241929429944
+    second: lockQuest_170
+  - first:
+      213: -1354323736607617077
+    second: lockQuest_171
+  - first:
+      213: 1627151361816166851
+    second: lockQuest_172
+  - first:
+      213: 1496026152568227799
+    second: lockQuest_173
+  - first:
+      213: 5573728756210304119
+    second: lockQuest_174
+  - first:
+      213: -7231759336809790795
+    second: lockQuest_175
+  - first:
+      213: -4063417165107296600
+    second: lockQuest_176
+  - first:
+      213: -1770603073527777899
+    second: lockQuest_177
+  - first:
+      213: -876041293988860738
+    second: lockQuest_178
+  - first:
+      213: 4297394093774637449
+    second: lockQuest_179
+  - first:
+      213: 239299380475157891
+    second: lockQuest_180
+  - first:
+      213: 1855252147449507118
+    second: lockQuest_181
+  - first:
+      213: -1546411758614475962
+    second: lockQuest_182
+  - first:
+      213: -525585392408349736
+    second: lockQuest_183
+  - first:
+      213: -5412406880252347116
+    second: lockQuest_184
+  - first:
+      213: 6417375083863361218
+    second: lockQuest_185
+  - first:
+      213: -8616186407979336851
+    second: lockQuest_186
+  - first:
+      213: 3383455647229031288
+    second: lockQuest_187
+  - first:
+      213: 4651368473128589625
+    second: lockQuest_188
+  - first:
+      213: 7569398020092804726
+    second: lockQuest_189
+  - first:
+      213: -8951825993753497467
+    second: lockQuest_190
+  - first:
+      213: -6589508180443365420
+    second: lockQuest_191
+  - first:
+      213: 3556982964420012258
+    second: lockQuest_192
+  - first:
+      213: 2283818284288481567
+    second: lockQuest_193
+  - first:
+      213: -7688669157232527765
+    second: lockQuest_194
+  - first:
+      213: -6873626224471332905
+    second: lockQuest_195
+  - first:
+      213: 6946465851445042849
+    second: lockQuest_196
+  - first:
+      213: 558590241977896838
+    second: lockQuest_197
+  - first:
+      213: -4537276734218992167
+    second: lockQuest_198
+  - first:
+      213: -6344896975196156331
+    second: lockQuest_199
+  - first:
+      213: 2806823311572408523
+    second: lockQuest_200
+  - first:
+      213: -7799938075668276212
+    second: lockQuest_201
+  - first:
+      213: 5527901193302526615
+    second: lockQuest_202
+  - first:
+      213: -6184749193312941633
+    second: lockQuest_203
+  - first:
+      213: -4118418621847693729
+    second: lockQuest_204
+  - first:
+      213: -2794606782953979658
+    second: lockQuest_205
+  - first:
+      213: -4707466911460193584
+    second: lockQuest_206
+  - first:
+      213: -4097076172700520165
+    second: lockQuest_207
+  - first:
+      213: 1442732455410380446
+    second: lockQuest_208
+  - first:
+      213: 7259699569709476408
+    second: lockQuest_209
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: REPOSO 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 712
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db57b9d5b7a9580800000000000000
+      internalID: -8819601278281335436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO 2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 712
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec62fffe387d6f70800000000000000
+      internalID: 9182127427255692525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO 3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 712
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db89cbb3ec0229e60800000000000000
+      internalID: 7967466760909396157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO 4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 712
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b55e97e12ef99d0800000000000000
+      internalID: -2765243025660224680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO 5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 712
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1706fd74a5cfdaf0800000000000000
+      internalID: -369359334142507238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO 6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 712
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac68f70a9a76616c0800000000000000
+      internalID: -4173034026472339766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR 1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 710
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a11492dfde1c90800000000000000
+      internalID: -7197069058971163507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR 2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 710
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16afad4ffaff20fc0800000000000000
+      internalID: -3529978026712696223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR 3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 710
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d5c5e2adec7a60800000000000000
+      internalID: 7673269149027916056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR 4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 710
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d14ed16bab30e80800000000000000
+      internalID: -8213516004045349540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR 5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 710
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b8ce31c6b82e70800000000000000
+      internalID: 9090716788945630092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR 6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 710
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93207ee6d88f51a80800000000000000
+      internalID: -8496611835629862343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER 1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 712
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433b73eee7b593c0800000000000000
+      internalID: -4353371228137114806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER 2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 712
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5fe3b159a276e0800000000000000
+      internalID: -1841223129264858124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER 3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 712
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6137f03d422891140800000000000000
+      internalID: 4690923581554520854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER 4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 712
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764cc31a782b9ae0800000000000000
+      internalID: -1541593942660987268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER 5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 712
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35dab8d45f4fcb60800000000000000
+      internalID: 7768515108069365055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER 6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 712
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8fd95a2282abdd0800000000000000
+      internalID: -2469617316386703196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIABAJO 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da439dd0717a432f0800000000000000
+      internalID: -993985900283611987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIABAJO 2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 662
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff30254ac80cc30800000000000000
+      internalID: 4377653475182641149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIABAJO 3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 662
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62729c112562aa790800000000000000
+      internalID: -7518154494014052570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIABAJO 4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 662
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544811344163137f0800000000000000
+      internalID: -634666611830062011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIABAJO 5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 662
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad8d2f8269d754d0800000000000000
+      internalID: -3145806797362852446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIABAJO 6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 662
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd69d5ff4d2c3f00800000000000000
+      internalID: 1097802230621892018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIABAJO 1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 662
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507fa4425e8dabd80800000000000000
+      internalID: -8234030490025527547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIABAJO 2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 662
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc40cb5355d30840800000000000000
+      internalID: 5189225749659274425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIABAJO 3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 662
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94776fce07dd25410800000000000000
+      internalID: 1464476305930483529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIABAJO 4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 662
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d35db11901b98e0800000000000000
+      internalID: -1685735420096856786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIABAJO 5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 662
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde1fe9f31950b360800000000000000
+      internalID: 7183339347988389596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIABAJO 6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 662
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c19f618278797080800000000000000
+      internalID: -9189181131479608894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIABAJO 1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 667
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793d11230efc8490800000000000000
+      internalID: -7742534369962804879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIABAJO 2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 667
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a40cb48889fe810800000000000000
+      internalID: 1796822487497984587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIABAJO 3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 667
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4869ef62175725c10800000000000000
+      internalID: 2040822709998229124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIABAJO 4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 667
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f268223f5d5b5e710800000000000000
+      internalID: 1721982363050870319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIABAJO 5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 667
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f69d2724bdacc760800000000000000
+      internalID: 7479544070418568944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIABAJO 6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 667
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f24bc3734b77a0800000000000000
+      internalID: -6378430282629712158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO IZQ 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 614
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976d5764da8978840800000000000000
+      internalID: 5226313762565641849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO IZQ 2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 614
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a9f40f0a751880800000000000000
+      internalID: -8640866105113859989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO IZQ 3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 614
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0670ecbb5ebd0870800000000000000
+      internalID: 8650779760468719118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO IZQ 4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 614
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff07edc48f4ff30800000000000000
+      internalID: 4608581327740010286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO IZQ 5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 614
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a3ad7b3da521b30800000000000000
+      internalID: 4256564463187671648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO IZQ 6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 614
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb9334a5c623a7c0800000000000000
+      internalID: -4061359808652796931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR IZQ 1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 616
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c211c99ae816f0800000000000000
+      internalID: -713562594848095733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR IZQ 2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 616
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72f236a667ffdb70800000000000000
+      internalID: 8926125006718694015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR IZQ 3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 616
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d30cc90819564c0800000000000000
+      internalID: -4294866688056214196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR IZQ 4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 616
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7080d9324e21ed0800000000000000
+      internalID: -2444640806099220507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR IZQ 5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 616
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea2c79d815950480800000000000000
+      internalID: -8933570351858963744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR IZQ 6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 616
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f61216e65c4ee00800000000000000
+      internalID: 1073199689087676213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER IZQ 1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 621
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4d4c95986a247f0800000000000000
+      internalID: -629757889031646030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER IZQ 2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 622
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5464633c7d3da090800000000000000
+      internalID: -8021687757629528998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER IZQ 3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 622
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ed7d1fc8e22de0800000000000000
+      internalID: -1359268161261805542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER IZQ 4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 623
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa2fb5f8838b630800000000000000
+      internalID: 3942963662136977956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER IZQ 5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 624
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf87b225c0cf1ea40800000000000000
+      internalID: 5395870958414952700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER IZQ 6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 624
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b633def9d517a7bb0800000000000000
+      internalID: -4937509394529307797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIARRIBA 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 567
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e497f1c7bffa810800000000000000
+      internalID: 1778916888357195266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIARRIBA 2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 567
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d2784d60083ad0800000000000000
+      internalID: -2722425505378544400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIARRIBA 3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 567
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8a72303f7ed0630800000000000000
+      internalID: 3895024283661347002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIARRIBA 4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 567
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c8bb4386e32020800000000000000
+      internalID: 2315948084984072260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIARRIBA 5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 567
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a757c06d28801cd50800000000000000
+      internalID: 6755690274062366074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO DIARRIBA 6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 567
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350ea6a3fefd37300800000000000000
+      internalID: 248788623005769811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIARRIBA 1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 569
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb370b598fa167c0800000000000000
+      internalID: -4079786782948377674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIARRIBA 2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 569
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656736052e2150f60800000000000000
+      internalID: 7999821076314158678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIARRIBA 3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 569
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6edb4e4ae315b630800000000000000
+      internalID: 3942078945889607277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIARRIBA 4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 569
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3975266dcbe6b240800000000000000
+      internalID: 4807288919679138111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIARRIBA 5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 569
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c209acdf6f7307230800000000000000
+      internalID: 3634466433247383596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR DIARRIBA 6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 569
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8770a521878ac70800000000000000
+      internalID: 8982561477005637843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIARRIBA 1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 572
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26402e1d653bdd550800000000000000
+      internalID: 6187298648546739298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIARRIBA 2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 572
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ad21228e1720f0800000000000000
+      internalID: -1141910436263909851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIARRIBA 3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 573
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d144412ad0fd7b0800000000000000
+      internalID: -5197420455186391785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIARRIBA 4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 573
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3433d26426fc122f0800000000000000
+      internalID: -999289621308427453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIARRIBA 5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 573
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66605b0d359a1400800000000000000
+      internalID: 295712814961550957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER DIARRIBA 6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 574
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50a52e5381276e0800000000000000
+      internalID: -1841382677931227649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO ARRIBA 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 520
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43818fbf9adb79b40800000000000000
+      internalID: 5447030812102367284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO ARRIBA 2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 520
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d174b5c8cbeba0f90800000000000000
+      internalID: -6986562154893981923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO ARRIBA 3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 520
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96cf8033f85e9c50800000000000000
+      internalID: 6673869499324679838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO ARRIBA 4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 520
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc2495a8a003ddc0800000000000000
+      internalID: -3615545351515919182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO ARRIBA 5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 520
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89efc9f5f016faf20800000000000000
+      internalID: 3436071759363505816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: REPOSO ARRIBA 6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 520
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486bfd8e734442a70800000000000000
+      internalID: 8801234578709657220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR ARRIBA 1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 520
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdcb511c7afb9c0800000000000000
+      internalID: -3909221503799075967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR ARRIBA 2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 520
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d88890306fec880800000000000000
+      internalID: -8588656946443678311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR ARRIBA 3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 520
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35666ffe8592f86f0800000000000000
+      internalID: -680279556749892013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR ARRIBA 4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 520
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13566bdfb9cca9700800000000000000
+      internalID: 547975275027522865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR ARRIBA 5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 520
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a34702a2372a3a0800000000000000
+      internalID: -6655630674529863111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMINAR ARRIBA 6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 520
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291b91be3b785c940800000000000000
+      internalID: 5315804141993963922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER ARRIBA 1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 521
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d84646a648d6db0800000000000000
+      internalID: -4797032435593999055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER ARRIBA 2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 522
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c2d76928b84330800000000000000
+      internalID: 3695405982232528891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER ARRIBA 3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 522
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29851f0091914ac0800000000000000
+      internalID: -3872654156647528146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER ARRIBA 4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 523
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e09e7aeab9ce20800000000000000
+      internalID: 3371431312372065332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER ARRIBA 5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 524
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cece02b199331e0800000000000000
+      internalID: -2219261849567957974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRER ARRIBA 6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 524
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f325ac5f76d3120800000000000000
+      internalID: 2395184882190008109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 455
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8102361ff82fa92e0800000000000000
+      internalID: -2118113974680346600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 455
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d403622ab489a1210800000000000000
+      internalID: 1304522492687560781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 454
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e03b4d92ed9c9210800000000000000
+      internalID: 1341120385676685540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 454
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632001b0dc02f38f0800000000000000
+      internalID: -558691763744669130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_94
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 454
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eb4f0462f2cdc10800000000000000
+      internalID: 2079588969283370537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_95
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 454
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e680069561b6050800000000000000
+      internalID: 5794749918661340781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_96
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 453
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3b761b19b31250800000000000000
+      internalID: 5914274261660024752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_97
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 453
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab9ffe580e4a330800000000000000
+      internalID: 3721346057976265275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_98
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 453
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b0b9371ff06bee0800000000000000
+      internalID: -1245790717220287716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_99
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 453
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e93223003a9f30800000000000000
+      internalID: 4583028360820155038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_100
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 453
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4631fdf8a9983dc60800000000000000
+      internalID: 7841762673113895780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_101
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 453
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89155be2ea589d10800000000000000
+      internalID: 2132554354217261452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 408
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c56edd9cac3db0800000000000000
+      internalID: -4810780507897479057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_103
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 408
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4547eee1a9e0b0a60800000000000000
+      internalID: 7641217247870874708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_104
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 408
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b0ff3b66c0bb80800000000000000
+      internalID: -8380980742599952350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_105
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 408
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c76378f6c0e2310800000000000000
+      internalID: 1382055808798719050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_106
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 408
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c5b19de2bb3aee0800000000000000
+      internalID: -1250950461593527269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_107
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 408
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269c88072aab44bc0800000000000000
+      internalID: -3799706978758375070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 405
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591cbcde08db876c0800000000000000
+      internalID: -4145355095551524459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_109
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 405
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abfdc6e44fe36990800000000000000
+      internalID: -7393803084003148895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_110
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 405
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b471fe54f78e44720800000000000000
+      internalID: 2829642099227301707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_111
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 405
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe0af0bf898df70800000000000000
+      internalID: 9212281241852768016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_112
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 405
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4a42f4f67e2400800000000000000
+      internalID: 301309019489454994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_113
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 405
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a1d85153755c20800000000000000
+      internalID: 3194586303908914510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 362
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecaf5fe344b4efb0800000000000000
+      internalID: -4619369113903452948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_115
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 362
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4655f7d1460d8090800000000000000
+      internalID: -8030755680665905587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 362
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd821e09408441d40800000000000000
+      internalID: 5554143424902408413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_117
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 362
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3ba1d76e8c57bf0800000000000000
+      internalID: -327134505647557715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08643ea38b00c12b0800000000000000
+      internalID: -5612610244348524928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_119
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 362
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367a008a93aec2760800000000000000
+      internalID: 7434574618234496867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 332
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5faf41f97a966b0800000000000000
+      internalID: -5302522784558418433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_121
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 332
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffade9c5badca380800000000000000
+      internalID: -8958545084435025928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_122
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 332
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3023da68b5b64eba0800000000000000
+      internalID: -6060601157688151549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_123
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 332
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae9cd9737482a10800000000000000
+      internalID: 1884834748250581505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 313
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6a2da8a6ba88500800000000000000
+      internalID: 398757041106232996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_125
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 313
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cafa705b268cca0800000000000000
+      internalID: -5996434374186259352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_126
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 313
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6125830ab2e09380800000000000000
+      internalID: -8966417569543806609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 313
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732d18ac09dfaf50800000000000000
+      internalID: 6894968202910835580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_128
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 313
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c13179af72ab00800000000000000
+      internalID: 838372846369619975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_129
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 313
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e05a36bc65b860800000000000000
+      internalID: 7545056280647360606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_130
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 330
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d971a4c88d66018b0800000000000000
+      internalID: -5183530090850805859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_131
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 330
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d8a5acc6923300800000000000000
+      internalID: 230412336646115642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_132
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 264
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec8443e9c9db330800000000000000
+      internalID: 3728308269828591299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_133
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 264
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8254e39a1037da330800000000000000
+      internalID: 3723758917876860200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_134
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 264
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea04b2fce30ee90800000000000000
+      internalID: -6998524761428939114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b19ee5ca1bcded0800000000000000
+      internalID: -2387838348528378994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_136
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 264
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190162274bf5981c0800000000000000
+      internalID: -4500961123966250863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_137
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 264
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db01dd17f2991bd0800000000000000
+      internalID: -2658932514930750504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_138
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 284
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186dd197e665a1b0800000000000000
+      internalID: -5645993413068363754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_139
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 284
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959edd40c16f55740800000000000000
+      internalID: 5140285149914458457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_140
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 284
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7910ef3fcac8dc20800000000000000
+      internalID: 3231555724117023101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_141
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 284
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac71cdf628e704f40800000000000000
+      internalID: 5710703426193332170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_142
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 282
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7127323b6e20370800000000000000
+      internalID: 8287439921383348129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_143
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 282
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a7b3042949e5680800000000000000
+      internalID: -8764404468952630780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_144
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 186
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d78708137578f0800000000000000
+      internalID: -543401632985525907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_145
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 238
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8da592aa4ff2ae0800000000000000
+      internalID: -1571768733253576459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_146
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 188
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847bc2f34e08bed60800000000000000
+      internalID: 7920566087461943112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_147
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 174
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766c9bc33d1602d10800000000000000
+      internalID: 2098784986239452775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_148
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 174
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f448a96ee5f45b940800000000000000
+      internalID: 5311238604567774287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_149
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 174
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5998e022cb6d65410800000000000000
+      internalID: 1465594832269248917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_150
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 173
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f864ffc5ddbd6e0800000000000000
+      internalID: -1811611033596948682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_151
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 173
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a6aee2d90e68a0800000000000000
+      internalID: -6310095226347805645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_152
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 173
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99389c43ea94189d0800000000000000
+      internalID: -2773854882924756071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_153
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 172
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70460404e9a4a4b40800000000000000
+      internalID: 5425230744664433671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_154
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 199
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e151b1378650cc10800000000000000
+      internalID: 2071750967244706277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_155
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 189
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7f65ec8932335d0800000000000000
+      internalID: -3084082180614850611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_156
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 178
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8919ba313cb07c950800000000000000
+      internalID: 6469152322217546136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_157
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 183
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d45ca7a13d0d060800000000000000
+      internalID: 6976307933479259402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_158
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 183
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be8a5568c7e668c0800000000000000
+      internalID: -4006259970619568457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_159
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 182
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb36af174afcabc0800000000000000
+      internalID: -3770363604635337802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_160
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25711d9e0b3415b90800000000000000
+      internalID: -7254943097601058990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_161
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 172
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467a2c513e230370800000000000000
+      internalID: 8287518528826406468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_162
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284ae9164e6c7af0800000000000000
+      internalID: -397321419753895890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_163
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75355353aa051f50800000000000000
+      internalID: 6851394104708117886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_164
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 107
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41f0bb73529e42a0800000000000000
+      internalID: -6751297904126660277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7554bbad34b8e3460800000000000000
+      internalID: 7223363975897630039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_166
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 122
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f35d44d2c8fc20800000000000000
+      internalID: 3240554148979275904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_167
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb2473074e6ef5f0800000000000000
+      internalID: -721017639053022271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_168
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 87
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c7ee0a30123b50800000000000000
+      internalID: 6571332647831193695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_169
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 118
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5db58d5cf53e920800000000000000
+      internalID: 3018361478611457479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_170
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 118
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c428471c875acd0800000000000000
+      internalID: -2547497241929429944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_171
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 116
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8f90bcb9743de0800000000000000
+      internalID: -1354323736607617077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_172
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 91
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c188d4ea8dc49610800000000000000
+      internalID: 1627151361816166851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_173
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 91
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d706860cd3f2c410800000000000000
+      internalID: 1496026152568227799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_174
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 91
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7748b4cd5ccd95d40800000000000000
+      internalID: 5573728756210304119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_175
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 91
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2865cd231a3ab90800000000000000
+      internalID: -7231759336809790795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_176
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 23
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60e830e97db97c0800000000000000
+      internalID: -4063417165107296600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_177
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595792cb2ed8d67e0800000000000000
+      internalID: -1770603073527777899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_178
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 64
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc6837a51da7d3f0800000000000000
+      internalID: -876041293988860738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_179
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 23
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898c43e82963ab30800000000000000
+      internalID: 4297394093774637449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_180
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 58
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5138c489225300800000000000000
+      internalID: 239299380475157891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_181
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 58
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2281affd2fb910800000000000000
+      internalID: 1855252147449507118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_182
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 58
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b0c43e2ba0a8ae0800000000000000
+      internalID: -1546411758614475962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_183
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 58
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3bd5acedeb4b8f0800000000000000
+      internalID: -525585392408349736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_184
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 58
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dbdaa5e9443e4b0800000000000000
+      internalID: -5412406880252347116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_185
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 17
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c64e1853a81f0950800000000000000
+      internalID: 6417375083863361218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_186
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb7d9cc182d6880800000000000000
+      internalID: -8616186407979336851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_187
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 56
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873306e1cf274fe20800000000000000
+      internalID: 3383455647229031288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_188
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 58
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d7487bfafc8040800000000000000
+      internalID: 4651368473128589625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_189
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 56
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e3d271567eb0960800000000000000
+      internalID: 7569398020092804726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_190
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f63fffa9b4c380800000000000000
+      internalID: -8951825993753497467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_191
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 58
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df742cf83d5d84a0800000000000000
+      internalID: -6589508180443365420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_192
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 58
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ee521921fc5130800000000000000
+      internalID: 3556982964420012258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_193
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199e8e11a0c1bf10800000000000000
+      internalID: 2283818284288481567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_194
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6637a7432c5c4590800000000000000
+      internalID: -7688669157232527765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_195
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 6
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7a39bed59fb90a0800000000000000
+      internalID: -6873626224471332905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_196
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae53cf43edc66060800000000000000
+      internalID: 6946465851445042849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_197
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f87149dd280c700800000000000000
+      internalID: 558590241977896838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_198
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d58b3989da5801c0800000000000000
+      internalID: -4537276734218992167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_199
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e8bf851d562f7a0800000000000000
+      internalID: -6344896975196156331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_200
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc81f814ee6d3f620800000000000000
+      internalID: 2806823311572408523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_201
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c9fb165ad01c390800000000000000
+      internalID: -7799938075668276212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_202
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a4144e8dc07bc40800000000000000
+      internalID: 5527901193302526615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_203
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9c2bb706b5b2aa0800000000000000
+      internalID: -6184749193312941633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_204
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 45
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f561a60751078d6c0800000000000000
+      internalID: -4118418621847693729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_205
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08127ffef8739d0800000000000000
+      internalID: -2794606782953979658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_206
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 45
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da828609c7bbaeb0800000000000000
+      internalID: -4707466911460193584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_207
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11f77c9de24427c0800000000000000
+      internalID: -4097076172700520165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_208
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 6
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea9a6368d950410800000000000000
+      internalID: 1442732455410380446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockQuest_209
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae69c8b42afb460800000000000000
+      internalID: 7259699569709476408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CAMINAR 5: 9090716788945630092
+      CAMINAR 4: -8213516004045349540
+      CAMINAR 2: -3529978026712696223
+      lockQuest_204: -4118418621847693729
+      REPOSO 5: -369359334142507238
+      CORRER 2: -1841223129264858124
+      CAMINAR ARRIBA 3: -680279556749892013
+      REPOSO ARRIBA 5: 3436071759363505816
+      REPOSO 3: 7967466760909396157
+      lockQuest_147: 2098784986239452775
+      CORRER DIARRIBA 3: -5197420455186391785
+      lockQuest_182: -1546411758614475962
+      CORRER IZQ 4: 3942963662136977956
+      REPOSO DIARRIBA 1: 1778916888357195266
+      lockQuest_206: -4707466911460193584
+      lockQuest_164: -6751297904126660277
+      lockQuest_94: 2079588969283370537
+      lockQuest_168: 6571332647831193695
+      lockQuest_138: -5645993413068363754
+      lockQuest_180: 239299380475157891
+      lockQuest_170: -2547497241929429944
+      CAMINAR DIABAJO 4: -1685735420096856786
+      lockQuest_140: 3231555724117023101
+      lockQuest_146: 7920566087461943112
+      lockQuest_192: 3556982964420012258
+      lockQuest_208: 1442732455410380446
+      lockQuest_129: 7545056280647360606
+      lockQuest_137: -2658932514930750504
+      lockQuest_189: 7569398020092804726
+      lockQuest_198: -4537276734218992167
+      CAMINAR IZQ 1: -713562594848095733
+      lockQuest_194: -7688669157232527765
+      lockQuest_207: -4097076172700520165
+      CAMINAR IZQ 6: 1073199689087676213
+      lockQuest_101: 2132554354217261452
+      lockQuest_143: -8764404468952630780
+      REPOSO DIABAJO 1: -993985900283611987
+      CORRER ARRIBA 4: 3371431312372065332
+      lockQuest_190: -8951825993753497467
+      CORRER DIABAJO 6: -6378430282629712158
+      REPOSO DIARRIBA 3: 3895024283661347002
+      lockQuest_105: 1382055808798719050
+      lockQuest_197: 558590241977896838
+      CAMINAR IZQ 2: 8926125006718694015
+      lockQuest_196: 6946465851445042849
+      lockQuest_104: -8380980742599952350
+      lockQuest_124: 398757041106232996
+      lockQuest_202: 5527901193302526615
+      lockQuest_126: -8966417569543806609
+      lockQuest_91: 1304522492687560781
+      REPOSO DIABAJO 3: -7518154494014052570
+      CORRER IZQ 3: -1359268161261805542
+      REPOSO ARRIBA 3: 6673869499324679838
+      CORRER 5: 7768515108069365055
+      CAMINAR DIARRIBA 4: 4807288919679138111
+      lockQuest_155: -3084082180614850611
+      lockQuest_93: -558691763744669130
+      CORRER ARRIBA 5: -2219261849567957974
+      lockQuest_133: 3723758917876860200
+      CAMINAR ARRIBA 2: -8588656946443678311
+      lockQuest_96: 5914274261660024752
+      lockQuest_191: -6589508180443365420
+      CORRER DIARRIBA 1: 6187298648546739298
+      lockQuest_102: -4810780507897479057
+      lockQuest_125: -5996434374186259352
+      REPOSO DIABAJO 6: 1097802230621892018
+      REPOSO DIABAJO 4: -634666611830062011
+      lockQuest_119: 7434574618234496867
+      lockQuest_203: -6184749193312941633
+      lockQuest_116: 5554143424902408413
+      CAMINAR 3: 7673269149027916056
+      lockQuest_110: 2829642099227301707
+      CORRER DIABAJO 4: 1721982363050870319
+      lockQuest_171: -1354323736607617077
+      lockQuest_185: 6417375083863361218
+      CORRER DIABAJO 5: 7479544070418568944
+      lockQuest_135: -2387838348528378994
+      lockQuest_122: -6060601157688151549
+      lockQuest_151: -6310095226347805645
+      lockQuest_150: -1811611033596948682
+      CAMINAR IZQ 3: -4294866688056214196
+      lockQuest_123: 1884834748250581505
+      CAMINAR ARRIBA 6: 5315804141993963922
+      CAMINAR IZQ 5: -8933570351858963744
+      lockQuest_149: 1465594832269248917
+      CORRER DIABAJO 3: 2040822709998229124
+      CAMINAR IZQ 4: -2444640806099220507
+      lockQuest_174: 5573728756210304119
+      lockQuest_173: 1496026152568227799
+      lockQuest_175: -7231759336809790795
+      lockQuest_100: 7841762673113895780
+      lockQuest_166: 3240554148979275904
+      lockQuest_148: 5311238604567774287
+      CORRER 3: 4690923581554520854
+      lockQuest_187: 3383455647229031288
+      CAMINAR DIABAJO 2: 5189225749659274425
+      REPOSO DIABAJO 2: 4377653475182641149
+      lockQuest_144: -543401632985525907
+      lockQuest_99: 4583028360820155038
+      lockQuest_145: -1571768733253576459
+      REPOSO DIABAJO 5: -3145806797362852446
+      lockQuest_184: -5412406880252347116
+      CORRER DIABAJO 1: -7742534369962804879
+      lockQuest_141: 5710703426193332170
+      lockQuest_128: 838372846369619975
+      CAMINAR DIABAJO 6: -9189181131479608894
+      lockQuest_152: -2773854882924756071
+      CORRER DIARRIBA 4: -999289621308427453
+      CORRER 4: -1541593942660987268
+      lockQuest_107: -3799706978758375070
+      lockQuest_121: -8958545084435025928
+      REPOSO ARRIBA 6: 8801234578709657220
+      lockQuest_163: 6851394104708117886
+      lockQuest_132: 3728308269828591299
+      lockQuest_90: -2118113974680346600
+      CAMINAR DIABAJO 1: -8234030490025527547
+      REPOSO DIARRIBA 4: 2315948084984072260
+      lockQuest_98: -1245790717220287716
+      lockQuest_205: -2794606782953979658
+      CORRER IZQ 5: 5395870958414952700
+      lockQuest_176: -4063417165107296600
+      REPOSO 2: 9182127427255692525
+      CORRER ARRIBA 6: 2395184882190008109
+      lockQuest_158: -4006259970619568457
+      lockQuest_169: 3018361478611457479
+      lockQuest_162: -397321419753895890
+      lockQuest_201: -7799938075668276212
+      lockQuest_97: 3721346057976265275
+      REPOSO IZQ 2: -8640866105113859989
+      lockQuest_195: -6873626224471332905
+      REPOSO IZQ 1: 5226313762565641849
+      CAMINAR DIARRIBA 2: 7999821076314158678
+      lockQuest_109: -7393803084003148895
+      lockQuest_117: -327134505647557715
+      lockQuest_161: 8287518528826406468
+      REPOSO IZQ 6: -4061359808652796931
+      lockQuest_199: -6344896975196156331
+      CORRER ARRIBA 1: -4797032435593999055
+      lockQuest_136: -4500961123966250863
+      CORRER DIABAJO 2: 1796822487497984587
+      CAMINAR ARRIBA 1: -3909221503799075967
+      CAMINAR 6: -8496611835629862343
+      CORRER ARRIBA 3: -3872654156647528146
+      lockQuest_154: 2071750967244706277
+      lockQuest_179: 4297394093774637449
+      CAMINAR ARRIBA 5: -6655630674529863111
+      lockQuest_106: -1250950461593527269
+      CORRER IZQ 6: -4937509394529307797
+      lockQuest_130: -5183530090850805859
+      lockQuest_139: 5140285149914458457
+      REPOSO 1: -8819601278281335436
+      lockQuest_120: -5302522784558418433
+      lockQuest_131: 230412336646115642
+      REPOSO IZQ 5: 4256564463187671648
+      CAMINAR DIARRIBA 3: 3942078945889607277
+      lockQuest_172: 1627151361816166851
+      CAMINAR DIABAJO 5: 7183339347988389596
+      lockQuest_95: 5794749918661340781
+      lockQuest_159: -3770363604635337802
+      lockQuest_188: 4651368473128589625
+      lockQuest_153: 5425230744664433671
+      CORRER 1: -4353371228137114806
+      CORRER DIARRIBA 5: 295712814961550957
+      REPOSO 4: -2765243025660224680
+      REPOSO IZQ 3: 8650779760468719118
+      CORRER DIARRIBA 6: -1841382677931227649
+      REPOSO 6: -4173034026472339766
+      REPOSO ARRIBA 1: 5447030812102367284
+      REPOSO ARRIBA 2: -6986562154893981923
+      CAMINAR ARRIBA 4: 547975275027522865
+      REPOSO IZQ 4: 4608581327740010286
+      lockQuest_167: -721017639053022271
+      CAMINAR DIARRIBA 5: 3634466433247383596
+      CORRER 6: -2469617316386703196
+      lockQuest_209: 7259699569709476408
+      lockQuest_178: -876041293988860738
+      lockQuest_181: 1855252147449507118
+      lockQuest_92: 1341120385676685540
+      lockQuest_114: -4619369113903452948
+      lockQuest_157: 6976307933479259402
+      CORRER IZQ 2: -8021687757629528998
+      lockQuest_156: 6469152322217546136
+      lockQuest_200: 2806823311572408523
+      CAMINAR DIARRIBA 6: 8982561477005637843
+      CAMINAR 1: -7197069058971163507
+      CAMINAR DIARRIBA 1: -4079786782948377674
+      REPOSO DIARRIBA 2: -2722425505378544400
+      lockQuest_186: -8616186407979336851
+      REPOSO DIARRIBA 6: 248788623005769811
+      lockQuest_108: -4145355095551524459
+      lockQuest_165: 7223363975897630039
+      lockQuest_118: -5612610244348524928
+      lockQuest_193: 2283818284288481567
+      CORRER DIARRIBA 2: -1141910436263909851
+      CORRER ARRIBA 2: 3695405982232528891
+      REPOSO ARRIBA 4: -3615545351515919182
+      CAMINAR DIABAJO 3: 1464476305930483529
+      lockQuest_111: 9212281241852768016
+      lockQuest_160: -7254943097601058990
+      lockQuest_134: -6998524761428939114
+      REPOSO DIARRIBA 5: 6755690274062366074
+      lockQuest_115: -8030755680665905587
+      lockQuest_177: -1770603073527777899
+      lockQuest_183: -525585392408349736
+      lockQuest_142: 8287439921383348129
+      lockQuest_112: 301309019489454994
+      CORRER IZQ 1: -629757889031646030
+      lockQuest_103: 7641217247870874708
+      lockQuest_113: 3194586303908914510
+      lockQuest_127: 6894968202910835580
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
